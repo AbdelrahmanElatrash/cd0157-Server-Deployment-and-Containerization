@@ -38,6 +38,7 @@ Completing the project involves several steps:
 For more detail about each of these steps, see the project lesson.
 
 
+
 EXTERNAL-IP 
 a2028005d2987463a8ea626206e635a9-1008606936.us-east-2.elb.amazonaws.com
 
