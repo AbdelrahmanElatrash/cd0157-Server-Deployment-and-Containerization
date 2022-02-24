@@ -39,4 +39,7 @@ For more detail about each of these steps, see the project lesson.
 
 
 
-EXTERNAL-IP 
+.enf_file content
+
+JWT_SECRET='myjwtsecret'
+LOG_LEVEL=DEBUG
